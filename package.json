@@ -1,0 +1,49 @@
+{
+  "name": "privi",
+  "version": "0.1.0",
+  "private": false,
+  "description": "## Project setup ``` npm install ```",
+  "author": "kisrakap",
+  "scripts": {
+    "serve": "vue-cli-service serve",
+    "build": "vue-cli-service build"
+  },
+  "main": "babel.config.js",
+  "dependencies": {
+    "@mdi/font": "5.9.55",
+    "axios": "^1.1.2",
+    "core-js": "^3.8.3",
+    "register-service-worker": "^1.7.2",
+    "roboto-fontface": "*",
+    "vue": "^3.2.13",
+    "vue-router": "^4.0.3",
+    "vue3-otp-input": "^0.3.6",
+    "vuetify": "^3.0.0-beta.0",
+    "vuex": "^4.0.0",
+    "webfontloader": "^1.0.0"
+  },
+  "devDependencies": {
+    "@fortawesome/fontawesome-free": "^6.2.0",
+    "@vue/cli-plugin-babel": "~5.0.0",
+    "@vue/cli-plugin-pwa": "~5.0.0",
+    "@vue/cli-plugin-router": "~5.0.0",
+    "@vue/cli-plugin-vuex": "~5.0.0",
+    "@vue/cli-service": "~5.0.0",
+    "vue-cli-plugin-vuetify": "~2.5.8",
+    "webpack-plugin-vuetify": "^2.0.0-alpha.0"
+  },
+  "browserslist": [
+    "> 1%",
+    "last 2 versions",
+    "not dead",
+    "not ie 11"
+  ],
+  "keywords": [
+    "tees"
+  ],
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "kisrakap"
+  }
+}
